@@ -7,6 +7,6 @@
 <!--Linkedin Badge-->
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/diegoalex-glez/">
-    <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn Badge"/>
   </a>
 </div>
