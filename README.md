@@ -5,7 +5,7 @@
 ## ⚪️ About Me
 I studied mechatronic engineering at the Polytechnic University of Chiapas, in southeastern Mexico. I am looking to pave my way as an embedded software engineer. I am a fan of LFC ⚽️ and enjoy watching tennis 🥎, UFC 🥊 and F1 🏎.
 
-## ⚪️ What I do
+## ⚪️ What (can) I do
 I've done some work on data aqcuisition, filtering and handling of sensors data, aswell as contributions to small projects with Raspberry Pi and STMicro boards.
 My main languages of expertise are:
 
