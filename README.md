@@ -11,6 +11,6 @@ My main languages of expertise are:
 
 [![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 </br>
-[![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&labelColor=101010)]()
+[![C](https://img.shields.io/badge/c-white?style=for-the-badge&logo=c&logoColor=white&labelColor=101010)]()
 </br>
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/c++-white?style=for-the-badge&logo=c%2B%2B&logoColor=white)
