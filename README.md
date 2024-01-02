@@ -2,12 +2,8 @@
   <img src="https://github.com/diegoalexglz/diegoalexglz/blob/main/images/GitHub%20ReadMe.png?raw=true" "/>
 </div>
 
-<h1 align="center">Hi, I'm Alex! 👋</h1>
-<h3 align="center">a mechatronics Engineer with a programmer's soul</h3>
-
-
-## 🚀 About Me
-I'm a full stack developer...
+## ⚪️ About Me
+I studied mechatronic engineering at the Polytechnic University of Chiapas, in southeastern Mexico. I am looking to pave my way as an embedded software engineer. I am a fan of LFC ⚽️ and thoroughly enjoy watching tennis 🥎, UFC 🥊 and F1 🏎.
 
 
 <h3 align="left">Connect with me:</h3>
