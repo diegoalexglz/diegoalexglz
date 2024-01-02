@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://github.com/diegoalexglz/diegoalexglz/blob/main/images/GitHub%20ReadMe.png?raw=true" width="360" height="140"/>
+</div>
+
 <h1 align="center">Hi, I'm Alex! 👋</h1>
 <h3 align="center">a mechatronics Engineer with a programmer's soul</h3>
 
