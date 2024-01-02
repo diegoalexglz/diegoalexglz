@@ -1,5 +1,10 @@
-<h1 align="center">Hi, I'm Alex</h1>
+<h1 align="center">Hi, I'm Alex! 👋</h1>
 <h3 align="center">a mechatronics Engineer with a programmer's soul</h3>
+
+
+## 🚀 About Me
+I'm a full stack developer...
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
