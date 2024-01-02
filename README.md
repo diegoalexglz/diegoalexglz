@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/diegoalexglz/diegoalexglz/blob/main/images/Cover.png?raw=true"/>
+  <img src="https://github.com/diegoalexglz/diegoalexglz/blob/main/images/Github%20Cover.png?raw=true"/>
 </div>
 
 ## ⚪️ About Me
