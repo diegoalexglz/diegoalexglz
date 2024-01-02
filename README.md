@@ -3,7 +3,7 @@
 </div>
 
 ## ⚪️ About Me
-I studied mechatronic engineering at the Polytechnic University of Chiapas, in southeastern Mexico. I am looking to pave my way as an embedded software engineer. I am a fan of LFC ⚽️ and thoroughly enjoy watching tennis 🥎, UFC 🥊 and F1 🏎.
+I studied mechatronic engineering at the Polytechnic University of Chiapas, in southeastern Mexico. I am looking to pave my way as an embedded software engineer. I am a fan of LFC ⚽️ and enjoy watching tennis 🥎, UFC 🥊 and F1 🏎.
 
 
 <h3 align="left">Connect with me:</h3>
