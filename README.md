@@ -15,6 +15,6 @@ My main languages of expertise are:
 </br>
 [![C++](https://img.shields.io/badge/c++-white?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=101010)]()
 </br>
-## ⚪️ You can reach me at:
+## ⚪️ You can reach me at
 [![LinkedIn](https://img.shields.io/badge/linkedin-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/diegoalex-glez/)
 
