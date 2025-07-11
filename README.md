@@ -1,16 +1,25 @@
-## Hi there 👋
+## ⚪️ About Me
 
-<!--
-**diegoalexglz/diegoalexglz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Alex.
+I'm a mechatronics engineer from south Mexico who's looking to pave his way as a software engineer.
+Die-hard fan of LFC ⚽️ and I also enjoy watching tennis 🥎, UFC 🥊 and F1 🏎.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## ⚪️ What I do
+
+Since graduating from University, I've worked on:
+
+- Data aqcuisition and algorithms training for Mabe Global
+- Manual software testing for Ford Motor Company
+- Automation testing for Aspen Technology
+
+My main language of expertise is:
+
+[![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+
+
+
+## ⚪️ You can reach me at
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/diegoalex-glez/)
